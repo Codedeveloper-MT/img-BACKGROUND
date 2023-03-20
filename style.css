@@ -1,0 +1,11 @@
+*{
+  background-image: url("photos/lights.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-attachment: fixed;
+}
+#forest{
+  margin-left: 60%;
+width: 40%;
+position: fixed;
+}
